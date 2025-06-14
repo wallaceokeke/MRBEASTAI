@@ -1,0 +1,2 @@
+yes:yes,yeah,yea,yeap,yep,ok,okay,alright,sure,affirmative,go ahead,let's go,do it,continue
+no:no,nah,ney,nope,negative,stop,don't,not now,maybe later,not really

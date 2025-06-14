@@ -1,0 +1,26 @@
+
+# strategist_chat()  # Uncomment to run
+
+# === README Content for Hugging Face Space ===
+"""
+# Strategic AI – Hugging Face Edition 🚀
+
+This Python script breaks down world-class content creators using data-driven strategy explanations.
+
+## Features
+- Built-in profiles for MrBeast, Gary Vee, Khaby Lame, and KSI
+- CLI interface for local run or adaptable to Gradio/Streamlit
+- Simple, readable codebase for prompt engineers and AI builders
+
+## How to Use
+1. Clone this repo or upload to Hugging Face Spaces (select Python runtime)
+2. Uncomment `strategist_chat()` to enable CLI execution
+3. Extend with web UI or API if desired
+
+## Coming Soon
+- Voice assistant version
+- PDF & image generation from profile
+- Strategy comparison mode
+
+Made with 💡 by Wallace Brown
+"""

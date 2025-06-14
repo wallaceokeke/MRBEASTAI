@@ -1,0 +1,11 @@
+STRATEGY AI/
+│
+├── KnowYourInfluencer.py
+├── pronunciations.txt
+├── aliases.txt
+├── influencers.json
+└── creators/
+      ├── mrbeast.txt
+      ├── gary_vee.txt
+      ├── khaby_lame.txt
+      └── ksi.txt
